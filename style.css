@@ -46,15 +46,11 @@
   }
 
 
-.academicsText32.card {
-    height: 300;
-    cursor: pointer;
-    border: 2px solid red;
-  }
+
 .academicsText41.card {
     height: 280px;
     cursor: pointer;
-    border: 2px solid yellow;
+    border: 2px solid red;
   }
 .academicsText42.card {
     height: 280px;
